@@ -1,0 +1,8 @@
+LeapRTC: {description: '', git: 'https://github.com/sugarsweetrobotics/LeapRTC.git',
+  hash: b4fe84cdb742f476bfab080dc72ad60e710d7355}
+LeapTest: {description: '', git: 'https://github.com/sugarsweetrobotics/LeapTest_py.git',
+  hash: 4aad3a8645d764d56db0923752627c7f5159a561}
+LeapVehicle: {description: '', git: 'git@github.com:ysuga/LeapVehicle.git', hash: 1b5d31c7d4f3307b962095cdb1777f187b80cfb0}
+KobukiRTC: {description: '', git: 'https://github.com/rt-net/kobuki_rtc.git',
+  hash: 31466b854f3faa8aa11b4765d61ef108ae7a09fa}
+
