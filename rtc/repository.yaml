@@ -4,3 +4,5 @@ LeapRTC: {description: '', git: 'https://github.com/sugarsweetrobotics/LeapRTC.g
 LeapTest: {description: '', git: 'https://github.com/sugarsweetrobotics/LeapTest_py.git',
   hash: 4aad3a8645d764d56db0923752627c7f5159a561}
 LeapVehicle: {description: '', git: 'git@github.com:ysuga/LeapVehicle.git', hash: 9edea4f15ce0279b0fd1c1b4f60e94c878c1831f}
+VelocitySmoother: {description: '', git: 'git@github.com:ysuga/VelocitySmoother.git',
+  hash: 97834fd1c509cccfb613ebabf53e16399315da60}
