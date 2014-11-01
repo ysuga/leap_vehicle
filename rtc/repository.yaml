@@ -1,10 +1,10 @@
 KobukiRTC: {description: '', git: 'https://github.com/rt-net/kobuki_rtc.git', hash: a56a1b546044c6ef67e592092a9774372b40b984}
-KobukiSafetyFilter: {description: '', git: 'git@github.com:ysuga/KobukiSafetyFilter.git',
+KobukiSafetyFilter: {description: '', git: 'https://github.com/ysuga/KobukiSafetyFilter.git',
   hash: aa75dc456ca52be5dbe02f8ee70cc37ddc8d4c51}
 LeapRTC: {description: '', git: 'https://github.com/sugarsweetrobotics/LeapRTC.git',
   hash: 73b3391a607bd8ae8e1d3ee5a791b725a3cdcdb0}
 LeapTest: {description: '', git: 'https://github.com/sugarsweetrobotics/LeapTest_py.git',
   hash: 4aad3a8645d764d56db0923752627c7f5159a561}
-LeapVehicle: {description: '', git: 'git@github.com:ysuga/LeapVehicle.git', hash: baebfb0bb9ee798b8862c2f960520b059726cd17}
-VelocitySmoother: {description: '', git: 'git@github.com:ysuga/VelocitySmoother.git',
+LeapVehicle: {description: '', git: 'https://github.com/ysuga/LeapVehicle.git', hash: baebfb0bb9ee798b8862c2f960520b059726cd17}
+VelocitySmoother: {description: '', git: 'https://github.com/ysuga/VelocitySmoother.git',
   hash: 8dca1f65d750b12c97607c5264fcb04e22d3c3a3}
