@@ -6,7 +6,7 @@ application :
   conf.C++ : conf/rtc_cpp.conf
   conf.Python  : conf/rtc_py.conf
   conf.Java: conf/rtc_java.conf
-  system : system/DefaultSystem.xml
+  system : DefaultSystem.xml
   console_bind : ['C++', 'Java', 'Python']
   nameservers :
     - localhost:2809

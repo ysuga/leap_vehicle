@@ -4,7 +4,7 @@
         <rts:DataPorts rts:name="in" rtsExt:visible="true"/>
         <rts:DataPorts rts:name="out" rtsExt:visible="true"/>
         <rts:ConfigurationSets rts:id="default">
-            <rts:ConfigurationData rts:data="0.001" rts:name="gain"/>
+            <rts:ConfigurationData rts:data="0.008" rts:name="gain"/>
         </rts:ConfigurationSets>
         <rts:ConfigurationSets rts:id="__widget__">
             <rts:ConfigurationData rts:data="text" rts:name="gain"/>
@@ -66,7 +66,7 @@
         <rts:DataPorts rts:name="bumper" rtsExt:visible="true"/>
         <rts:ConfigurationSets rts:id="default">
             <rts:ConfigurationData rts:data="0" rts:name="debug"/>
-            <rts:ConfigurationData rts:data="/dev/cu.usbserial-00002014" rts:name="port"/>
+            <rts:ConfigurationData rts:data="/dev/cu.usbserial-kobuki_A901PF58" rts:name="port"/>
         </rts:ConfigurationSets>
         <rts:ConfigurationSets rts:id="__widget__">
             <rts:ConfigurationData rts:data="text" rts:name="debug"/>
